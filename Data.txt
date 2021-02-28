@@ -1,0 +1,6 @@
+War.and.Peace	Leo.Tolstoy	1869	1225	450000
+The.Goldfinch	Donna.Tartt	2013	784	340000
+To.Kill.a.Mockingbird	Harper.Lee	1960	281	220000
+Fahrenheit.451	Ray.Bradbury	1953	256	530000
+Lord.of.the.Flies	William.Golding	1954	224	370000
+Animal.Farm	George.Orwell	1945	112	150000
